@@ -69,7 +69,6 @@ kubectl describe services/blue-green-lb
 
 ## 📁 Project Artifacts
 
-- 🖼️ [Capstone Architecture Diagram](./capstone-network-diagram.png)
 - 📄 [Project Report PDF](./Udacity%20Cloud%20DevOps%20Nanodegree%20Capstone%20Project.pdf)
 
 ---
